@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi! I'm Yohanes Bramanta Adita Saputra👋<br><br>Informatics Engineer Student at Darma Cendika Catholic University</h1>
+
+<h2 align="center">Hi! I'm Yohanes Bramanta Adita Saputra👋<br><br>Informatics Engineer Student at Darma Cendika Catholic University</h2>
 
 
-<h2 align="center"><storng>My TechStack🔥</storng></h2>
-
+<h3 align="center"><storng>My TechStack🔥</storng></h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="14" />
@@ -31,10 +31,11 @@
 </div>
 
 
-<h2 align="center"><storng>Connect With Me🙋‍♂️</storng></h2>
+
 
 <br clear="both">
 
+<h3 align="center"><storng>Connect With Me🙋‍♂️</storng></h3>
 <div align="center">
   <a href="https://x.com/RaamInHere" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="73" height="34" alt="twitter logo"  />
