@@ -20,5 +20,8 @@ especially Javascript and Flutter. I work on random project in my free time
     <a href="mailto:yohanesbramanta1002@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
     </a>
+    <a href="https://www.X.com/RaamInHere/" target="blank">
+      <img src="https://img.shields.io/badge/Twitter-2B2A2A?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
+    </a>
   </p>
 </div>
