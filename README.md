@@ -14,7 +14,7 @@ especially Javascript and Flutter. I work on random project in my free time
     <a href="https://www.instagram.com/buramanta_/" target="blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
     </a>
-    <a href="https://discord.com/users/b4ezz_" target="blank">
+    <a href="https://discord.com/users/itzraam._" target="blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
     </a>
     <a href="mailto:yohanesbramanta1002@gmail.com">
